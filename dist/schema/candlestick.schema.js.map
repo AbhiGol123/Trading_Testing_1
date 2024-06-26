@@ -1,0 +1,1 @@
+{"version":3,"file":"candlestick.schema.js","sourceRoot":"","sources":["../../src/schema/candlestick.schema.ts"],"names":[],"mappings":";;;AACA,qCAAqC;AAExB,QAAA,iBAAiB,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IACjD,CAAC,EAAE,IAAI;IACP,CAAC,EAAE,MAAM;IACT,CAAC,EAAE,MAAM;IACT,CAAC,EAAE,MAAM;IACT,CAAC,EAAE,MAAM;CACZ,CAAC,CAAC"}
